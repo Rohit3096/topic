@@ -1,8 +1,8 @@
 {
     "Topic":["GK","Maths","Reasoning","Engineering","Medical","Science"],
     "GK":[],
-    "Maths":["Normal","Advance"],
-    "Reasoning":[],
+    "Maths":["general","Advance"],
+    "Reasoning":[general],
     "Engineering":["Mechanical","Electrical","Electronics","Computer Science","Civil"],
     "Medical":["BHMS","BAMS","BDS"],
     "Science":["Biology","Physics"]
